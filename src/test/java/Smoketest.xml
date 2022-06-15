@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" thread-count="4" parallel="Classes">
+    <test name="Test">
+
+        <classes>
+            <class name="pk_OrangeHRM.OrangeHRM_Login" />
+            <class name="pk_OrangeHRM.Drag_Drop_Example" />
+            <class name="pk_OrangeHRM.Yatra_MouseOver_Example" />
+            <class name="pk_OrangeHRM.HTTP_authentication" />
+            <!--<class name="pk_Orange_HRM.OrangeHRM_loginAllscenarios"/> -->
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
